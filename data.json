@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Ida",
+        "last": "Olsen"
+      },
+      "location": {
+        "street": {
+          "number": 2308,
+          "name": "Udsigten"
+        },
+        "city": "Rønnede",
+        "state": "Midtjylland",
+        "country": "Denmark",
+        "postcode": 35228,
+        "coordinates": {
+          "latitude": "-44.0945",
+          "longitude": "40.4541"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alaska"
+        }
+      },
+      "email": "ida.olsen@example.com",
+      "login": {
+        "uuid": "5ad13eb7-463a-4267-b0db-2822d38cda94",
+        "username": "sadcat596",
+        "password": "snowboard",
+        "salt": "AnOlAB7d",
+        "md5": "876c7ff992c2a8c986c703df9ed03dbd",
+        "sha1": "66ce88a38379ad662c9f971b3b4bb357436552df",
+        "sha256": "df2df02e85b9b0407087883c54bf49eb40657a6196dc3df819de8de4962937f3"
+      },
+      "dob": {
+        "date": "1955-01-10T17:09:15.719Z",
+        "age": 69
+      },
+      "registered": {
+        "date": "2005-02-19T05:57:49.509Z",
+        "age": 18
+      },
+      "phone": "25786538",
+      "cell": "70157832",
+      "id": {
+        "name": "CPR",
+        "value": "100155-5149"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/79.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+      },
+      "nat": "DK"
+    }
+  ],
+  "info": {
+    "seed": "a",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
